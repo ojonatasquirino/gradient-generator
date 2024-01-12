@@ -31,7 +31,7 @@
 # objetivos <a name="id01"></a>
 
 
-Criar combinações de cores hexadecimais e visualizar o gradiente gerado em tempo real no fundo da página e oferecer a funcionalidade de copiar os códgios das cores hexadecimais geradas.
+Criar combinações de cores hexadecimais e visualizar o gradiente gerado em tempo real no fundo da página e oferecer a funcionalidade de copiar os códigos das cores hexadecimais geradas.
 
 
 
