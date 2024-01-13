@@ -33,7 +33,7 @@ btnGenerator.addEventListener("click", () => {
 
   // adiciona o novo evento de clique no texto gerado para copiar
   gradientDisplay.onclick = () => {
-    copyToClipboard(`#${hexCode1}  #${hexCode2}`);
+    copyToClipboard(`background: linear-gradient(#${hexCode1}, #${hexCode2})`);
     Toastify({
       text: "hexadecimais copiados!",
       duration: 3000,
