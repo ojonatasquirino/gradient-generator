@@ -46,7 +46,7 @@ btnGenerator.addEventListener("click", () => {
   // toastify — ReactLib 
   Toastify({
     text: `hexadecimais: #${hexCode1} • #${hexCode2}`,
-    duration: 5000,
+    duration: 3000,
     gravity: "top",
     position: "right",
     backgroundColor: `linear-gradient(270deg, #${hexCode1}, #${hexCode2})`,
